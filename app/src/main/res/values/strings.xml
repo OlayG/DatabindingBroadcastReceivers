@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatabindingBroadcastReceivers</string>
+    <string name="my_string">Something special is: %s</string>
+</resources>
